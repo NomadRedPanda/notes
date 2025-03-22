@@ -1,4 +1,4 @@
 ## 📚 learning notes
 
-- [Cline](docs/cline.md)
+- [Cline](cline/README.md)
 - [News](docs/news.md)
