@@ -1,3 +1,3 @@
-All about cline
-Steps
+All about cline  
+Steps  
 0. initialize memory bank
