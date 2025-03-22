@@ -1,2 +1,2 @@
 
-- [custom-instructions](custom-instructions/demo1.md)
+- [custom-instructions](custom-instructions/README.md)
