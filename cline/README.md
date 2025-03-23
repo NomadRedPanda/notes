@@ -8,5 +8,5 @@
 ### .clinerules
 - scope: project-based
 - PWD: root/.clinerules
-- [Sample](.clinerules.md)
+- [Sample](clinerules.md)
 
