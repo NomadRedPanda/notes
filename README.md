@@ -1,4 +1,7 @@
-## 📚 learning notes
+# My Learning Notes
 
-- [Cline](cline/README.md)
-- [News](docs/news.md)
+Welcome to my personal learning notes! This site is a collection of my learnings.
+
+## How to Use
+
+Navigate using the sidebar.
