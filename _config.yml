@@ -1,5 +1,7 @@
 title: My Awesome Docs
 description: All I know
 theme: just-the-docs
-baseurl: "" # the subpath of your site, e.g. /blog
+url: https://nomadredpanda.github.io/ # the subpath of your site, e.g. /blog
 repository: NomadRedPanda/notes
+aux_links:
+  Template Repository: https://github.com/NomadRedPanda/notes
