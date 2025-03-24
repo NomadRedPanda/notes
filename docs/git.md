@@ -1,4 +1,4 @@
-[Home](../README.md) | [Git](./git.md) | [Cline](./cline.md)
+[Home](../README.md) | [Git](git.md) | [Cline](cline.md)
 
 # Git Guide
 
