@@ -1,7 +1,12 @@
 title: My Awesome Docs
-description: All I know
-theme: just-the-docs
-url: https://nomadredpanda.github.io/ # the subpath of your site, e.g. /blog
-repository: NomadRedPanda/notes
-aux_links:
-  Template Repository: https://github.com/NomadRedPanda/notes
+description: Documentation for My Project
+theme: jekyll-theme-cayman  # or any other built-in theme
+# These will appear in the browser tab
+url: https://NomadRedPanda.github.io
+baseurl: "/notes"  # Don't forget the leading slash!
+
+# Add a navigation bar (if your theme supports it)
+nav:
+  - Home: README.md
+  - Git: docs/git.md
+  - Cline: docs/cline.md
