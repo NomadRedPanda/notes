@@ -1,3 +1,5 @@
+[Home](README.md) | [Git](docs/git.md) | [Cline](docs/cline.md)
+
 # Git Guide
 
 This guide provides a concise overview of a Git workflow, branching strategy, and common operations.
